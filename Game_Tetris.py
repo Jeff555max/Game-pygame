@@ -2,10 +2,10 @@ import pygame
 import random
 
 # Константы
-WIDTH, HEIGHT = 1000, 800
+WIDTH, HEIGHT = 480, 780
 BLOCK_SIZE = 30
 COLUMNS, ROWS = WIDTH // BLOCK_SIZE, HEIGHT // BLOCK_SIZE
-FPS = 10
+FPS = 3
 
 # Задаем цвета
 COLORS = [
